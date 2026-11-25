@@ -28,7 +28,7 @@ flow: idea -> design -> build -> test -> ship
 <!-- PROJECTS:START -->
 <p align="center">
   <a href="https://github.com/joharltf/Zan-OoT3D-Mobile"><b>Zan-OoT3D-Mobile</b></a><br />
-  <sub>Public prebuild APK releases for Zan - Ocarina of Time 3D Mobile</sub>
+  <sub>Publick prebuild APK releases for Zan - Ocarina of Time 3D Mobile</sub>
 </p>
 
 <p align="center">
