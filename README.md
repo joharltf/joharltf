@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="34" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/x/C9D1D9" alt="X" /></a>
-&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" /></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" /></a>
