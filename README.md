@@ -25,10 +25,12 @@ now: OoT3D Mobile — Ocarina of Time 3D on Android
 
 ### 01 / WORK
 
+<!-- PROJECTS:START -->
 | repo | what |
 | :--- | :--- |
-| [Zan-OoT3D-Mobile](https://github.com/joharltf/Zan-OoT3D-Mobile) | prebuilt APKs, ports, patches, release builds |
-| [Zan-Previews](https://github.com/joharltf/Zan-Previews) | screenshots and preview images from the builds |
+| [Zan-OoT3D-Mobile](https://github.com/joharltf/Zan-OoT3D-Mobile) | Publick prebuild APK releases for Zan - Ocarina of Time 3D Mobile |
+| [Zan-Previews](https://github.com/joharltf/Zan-Previews) | Public preview images for Zan game releases |
+<!-- PROJECTS:END -->
 
 ### 02 / TOOLS
 
