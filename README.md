@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/buildlog.gif" width="720" alt="Build log" />
 </p>
 
-### 00 / WHO
+### WHO
 
 ```yaml
 user: zan
@@ -25,7 +25,7 @@ mode: idea -> design -> build -> test -> ship
 now: OoT3D Mobile — Ocarina of Time 3D on Android
 ```
 
-### 01 / WORK
+### WORK
 
 <!-- PROJECTS:START -->
 | repo | what |
@@ -34,9 +34,8 @@ now: OoT3D Mobile — Ocarina of Time 3D on Android
 | [Zan-Previews](https://github.com/joharltf/Zan-Previews) | Public preview images for Zan game releases |
 <!-- PROJECTS:END -->
 
-### 02 / TOOLS
+### TOOLS
 
-**Systems**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="34" height="34" />
@@ -44,19 +43,15 @@ now: OoT3D Mobile — Ocarina of Time 3D on Android
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="34" height="34" />
-
-**Interface**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="34" height="34" />
-
-**Flow**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="34" height="34" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="34" height="34" />
 
-### 03 / SIGNAL
+### SIGNAL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
