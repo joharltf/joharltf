@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/typing.gif" height="120" alt="From idea to ship" />
+  <img src="https://raw.githubusercontent.com/joharltf/zan/main/assets/typing.gif" height="120" alt="From idea to ship" />
 </p>
 
 ```yaml
@@ -53,12 +53,12 @@ offline: screenshots, APK builds, and version numbers
 
 ## 📈 History
 
-<a href="https://github.com/joharltf/joharltf">
+<a href="https://github.com/joharltf/zan">
   <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </a>
 
-![Snake animation](https://github.com/joharltf/joharltf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joharltf/zan/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=keep%20building&animation=fadeIn&type=waving&color=gradient&height=70" alt="keep building" />
