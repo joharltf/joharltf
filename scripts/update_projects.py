@@ -35,7 +35,7 @@ def fetch_repos():
 
 def cell(text):
     clean = (text or "no description").replace("\r", " ").replace("\n", " ").strip()
-    return html.escape(clean).replace("|", "\\|")
+    return html.escape(clean)
 
 
 def main():
@@ -45,12 +45,15 @@ def main():
         if repo["name"] != USER and not repo.get("archived", False)
     ]
 
-    lines = ["| repo | what |", "| :--- | :--- |"]
+    blocks = []
     for repo in repos:
-        lines.append(
-            f"| [{cell(repo['name'])}]({repo['html_url']}) | {cell(repo.get('description'))} |"
+        blocks.append(
+            f'<p align="center">\n'
+            f'  <a href="{repo["html_url"]}"><b>{cell(repo["name"])}</b></a><br />\n'
+            f"  <sub>{cell(repo.get('description'))}</sub>\n"
+            f"</p>"
         )
-    table = "\n".join(lines)
+    table = "\n\n".join(blocks)
 
     with open(README, encoding="utf-8") as handle:
         current = handle.read()

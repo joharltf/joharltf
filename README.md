@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/header.svg" width="880" alt="Zan — build log" />
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/header.svg" alt="Zan — build log" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="34" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" /></a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" /></a>
+  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="40" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
+  <a href="https://instagram.com/joharltf"><img height="40" src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" /></a>
+  <a href="https://facebook.com/joharltf"><img height="40" src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/buildlog.gif" width="720" alt="Build log" />
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/buildlog.gif" alt="Build log" width="100%" />
 </p>
 
 ### WHO
@@ -21,17 +19,23 @@ user: zan
 handle: joharltf
 base: Indonesia
 since: 2021
-mode: idea -> design -> build -> test -> ship
-now: OoT3D Mobile — Ocarina of Time 3D on Android
+focus: OoT3D Mobile
+note: Ocarina of Time 3D on Android
+flow: idea -> design -> build -> test -> ship
 ```
 
 ### WORK
 
 <!-- PROJECTS:START -->
-| repo | what |
-| :--- | :--- |
-| [Zan-OoT3D-Mobile](https://github.com/joharltf/Zan-OoT3D-Mobile) | Publick prebuild APK releases for Zan - Ocarina of Time 3D Mobile |
-| [Zan-Previews](https://github.com/joharltf/Zan-Previews) | Public preview images for Zan game releases |
+<p align="center">
+  <a href="https://github.com/joharltf/Zan-OoT3D-Mobile"><b>Zan-OoT3D-Mobile</b></a><br />
+  <sub>Public prebuild APK releases for Zan - Ocarina of Time 3D Mobile</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joharltf/Zan-Previews"><b>Zan-Previews</b></a><br />
+  <sub>Public preview images for Zan game releases</sub>
+</p>
 <!-- PROJECTS:END -->
 
 ### TOOLS
@@ -56,12 +60,12 @@ now: OoT3D Mobile — Ocarina of Time 3D on Android
 ### SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=dark&hide_border=true" width="420" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=dark&hide_border=true" width="420" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joharltf/joharltf/output/github-contribution-grid-snake.svg" width="880" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 <p align="center"><sub>contribution snake · refreshed every 12 hours</sub></p>
