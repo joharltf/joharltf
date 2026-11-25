@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Update contribution snake
 
 on:
   schedule:
@@ -8,19 +8,21 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
-  build:
-    name: Jobs to update datas
+  snake:
+    name: Generate and publish snake SVG
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3.5.0
-        id: snake-gif
         with:
           github_user_name: joharltf
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output

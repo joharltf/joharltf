@@ -1,65 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=100" alt="Hey Everyone!" />
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/header.svg" width="880" alt="Zan — build log" />
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="44" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
+  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="34" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/joharltf"><img height="44" src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" /></a>
+  <a href="https://x.com/joharltf"><img height="34" src="https://cdn.simpleicons.org/x/C9D1D9" alt="X" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/typing.gif" height="120" alt="From idea to ship" />
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/main/assets/buildlog.gif" width="720" alt="Build log" />
 </p>
+
+### 00 / WHO
 
 ```yaml
-name: Zan
+user: zan
 handle: joharltf
-based_in: Indonesia
-doing:
-  - research and planning
-  - interfaces, prototypes, and visual assets
-  - code, tooling, and automation
-  - builds, tests, docs, and releases
+base: Indonesia
+since: 2021
+mode: idea -> design -> build -> test -> ship
 now: OoT3D Mobile — Ocarina of Time 3D on Android
-offline: screenshots, APK builds, and version numbers
 ```
 
-## 🚀 Projects
+### 01 / WORK
 
-| Project | What it is |
-| --- | --- |
-| [Zan-OoT3D-Mobile](https://github.com/joharltf/Zan-OoT3D-Mobile) | Prebuilt APK releases of Ocarina of Time 3D for Android — porting, patching, and polish. |
-| [Zan-Previews](https://github.com/joharltf/Zan-Previews) | Screenshots and preview images from the builds. |
+| repo | what |
+| :--- | :--- |
+| [Zan-OoT3D-Mobile](https://github.com/joharltf/Zan-OoT3D-Mobile) | prebuilt APKs, ports, patches, release builds |
+| [Zan-Previews](https://github.com/joharltf/Zan-Previews) | screenshots and preview images from the builds |
 
-## 🧰 Tools I Work With
+### 02 / TOOLS
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
-</p>
+**Systems**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="34" height="34" />
 
-## 📈 History
+**Interface**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="34" height="34" />
 
-<a href="https://github.com/joharltf/joharltf">
-  <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</a>
+**Flow**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="34" height="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="34" height="34" />
 
-![Snake animation](https://github.com/joharltf/joharltf/blob/output/github-contribution-grid-snake.svg)
+### 03 / SIGNAL
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=keep%20building&animation=fadeIn&type=waving&color=gradient&height=70" alt="keep building" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joharltf/joharltf/output/github-contribution-grid-snake.svg" width="880" alt="Contribution snake" />
+</p>
+
+<p align="center"><sub>contribution snake · refreshed every 12 hours</sub></p>
