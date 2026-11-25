@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: joharltf
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353&color_snake=%2358a6ff
       - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
