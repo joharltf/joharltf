@@ -19,8 +19,7 @@ user: zan
 handle: joharltf
 base: Indonesia
 since: 2021
-focus: OoT3D Mobile
-note: Ocarina of Time 3D on Android
+focus: ports, tools and mobile builds
 flow: idea -> design -> build -> test -> ship
 ```
 
@@ -61,7 +60,6 @@ flow: idea -> design -> build -> test -> ship
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joharltf&show_icons=true&theme=dark&hide_border=true" width="420" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharltf&layout=compact&theme=dark&hide_border=true" width="420" alt="Top languages" />
 </p>
 
 <p align="center">
