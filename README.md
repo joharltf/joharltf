@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="40" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
-  <a href="https://instagram.com/joharltf"><img height="40" src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" /></a>
+  <a href="https://discord.com/invite/vJ3TBfgbPy"><img height="40" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>&emsp;
+  <a href="https://instagram.com/joharltf"><img height="40" src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" /></a>&emsp;
   <a href="https://facebook.com/joharltf"><img height="40" src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" /></a>
 </p>
 
